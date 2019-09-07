@@ -1,0 +1,14 @@
+
+.sort-container {
+	margin: 0;
+	display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.title-banner {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
